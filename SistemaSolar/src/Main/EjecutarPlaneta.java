@@ -21,7 +21,7 @@ public class EjecutarPlaneta {
    
       System.out.println("Detalles de marte:");
         planeta.imprimirResultado();
-        System.out.println("Densidad de urano: " + planeta.calcularDensidad() + " kg/km³");
+        System.out.println("Densidad de marte: " + planeta.calcularDensidad() + " kg/km³");
         System.out.println("¿urano es un planeta exterior? " + planeta.exteriror());
         
         
